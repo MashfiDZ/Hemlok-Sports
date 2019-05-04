@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 111,
+      "title": "Nike Phantom Vision Elite Dynamic Fit FG",
+      "description": "Nike Phantom Vision",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 25999,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 112,
+      "title": "Nike Vapor 12 Elite FG",
+      "description": "Nike Vapor 12 ",
+      "availableSizes": ["X", "M", "L"],
+      "price": 24999,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 113,
+      "title": "Nike Superfly 6 Pro FG",
+      "description": "Nike Superfly 6",
+      "availableSizes": ["X", "M", "L"],
+      "price": 15995,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 114,
+      "title": "Nike TiempoX Legend VII Academy 10R IC",
+      "description": "Nike TiempoX Legend VII",
+      "availableSizes": ["XL"],
+      "price": 6995,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 115,
+      "title": "Nike Premier II FG",
+      "description": "Nike Premier II",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 6997,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 116,
+      "title": "Nike Hypervenom III Pro Dynamic Fit FG",
+      "description": "Nike Hypervenom III",
+      "availableSizes": ["XL", "XXL"],
+      "price": 11897,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 7,
+      "sku": 117,
+      "title": "Nike Mercurial Vapor XII Pro Neymar Jr",
+      "description": "Nike Mercurial Vapor",
+      "availableSizes": ["S"],
+      "style": "Preto com listras brancas",
+      "price": 35000,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 8,
+      "sku": 118,
+      "title": "Nike TiempoX Lunar Legend VII Pro 10R TF",
+      "description": "",
+      "availableSizes": ["XL"],
+      "style": "Azul escuro",
+      "price": 30999,
+      "isFreeShipping": false
+    },
+    {
+      "id": 9,
+      "sku": 119,
+      "title": "Nike Mercurial Superfly 360 Elite LVL UP SE FG",
+      "description": "",
+      "availableSizes": ["L", "XL"],
+      "price": 39999,
+      "isFreeShipping": true
+    }
+  ]
+}
